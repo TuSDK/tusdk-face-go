@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"apidemo/api"
+	"github.com/TuSDK/tusdk-face-go/api"
 )
 
 func main() {
